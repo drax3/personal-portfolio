@@ -5,7 +5,8 @@ import {
     ChevronDown, 
     Github, 
     Linkedin, 
-    Twitch } from "lucide-react";
+    Twitch,
+} from "lucide-react";
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const skills = [
